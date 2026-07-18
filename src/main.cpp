@@ -11,7 +11,6 @@
 
 void setup(void)
 {
-  // initialize LED digital pin as an output.
   pinMode(LED_PIN_1, OUTPUT);
   pinMode(LED_PIN_2, OUTPUT);
 }
